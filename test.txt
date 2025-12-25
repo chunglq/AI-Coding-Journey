@@ -1,0 +1,7 @@
+The Quick Brown Fox jumped over the lazy dog! This is a TEST sentence with MIXED cases, punctuation... and numbers like 123.
+
+"Hello World," said the programmer. She was working on a new project that would change everything.
+
+The data contained various symbols: @#$%^&*() and whitespace    issues.
+
+Final paragraph with more text to process.
