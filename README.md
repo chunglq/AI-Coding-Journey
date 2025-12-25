@@ -2,7 +2,9 @@
 
 My 1-month roadmap project: AI-assisted sentiment analyzer in Python with C# wrapper
 
-## Setup (as of December 22, 2025)
+## Day 1
+
+### Setup (as of December 22, 2025)
 
 1. Install VS Code: https://code.visualstudio.com/
 2. Install extensions:
@@ -11,7 +13,7 @@ My 1-month roadmap project: AI-assisted sentiment analyzer in Python with C# wra
 3. Sign up for free AI web tools: Grok, Gemini, Claude, ChatGPT.
 4. Clone this repo: `git clone https://github.com/chunglq/AI-Coding-Journey.git`
 
-## Setup python environment
+### Setup python environment
 
 #### Create and activate virtual environment
 
@@ -19,3 +21,13 @@ My 1-month roadmap project: AI-assisted sentiment analyzer in Python with C# wra
 python3 -m venv venv
 source venv/bin/activate # On Windows use `venv\Scripts\activate`
 ```
+#### Install required packages
+
+```bash
+pip install -r requirements.txt
+```
+
+## Day 2
+
+
+
